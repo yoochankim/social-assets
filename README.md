@@ -18,4 +18,5 @@ https://raw.githubusercontent.com/froggsleep/social-assets/main/<product>/<date>
 ## Products
 
 - `forgecat/` — ForgeCat Agent Profiles
+- `rising/` — "rising on GitHub" posts from the personal account
 - `letti/` — Letti

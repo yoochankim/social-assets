@@ -5,7 +5,7 @@ API fetches `image_url` from its own servers — there is no local upload path, 
 attachment needs a public URL.
 
 ```
-https://raw.githubusercontent.com/froggsleep/social-assets/main/<product>/<date>-<slug>.png
+https://raw.githubusercontent.com/yoochankim/social-assets/main/<product>/<date>-<slug>.png
 ```
 
 ## Rules
@@ -18,5 +18,5 @@ https://raw.githubusercontent.com/froggsleep/social-assets/main/<product>/<date>
 ## Products
 
 - `forgecat/` — ForgeCat Agent Profiles
-- `rising/` — "rising on GitHub" posts from the personal account
 - `letti/` — Letti
+- @sleepyfroggggg personal-track media moved to [froggsleep/social-assets](https://github.com/froggsleep/social-assets) on 2026-10-13.
